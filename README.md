@@ -1,6 +1,7 @@
 ### Hello there
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?kjgarza" frameborder="0"></iframe>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjgarza&layout=compact&langs_count=10&hide=html,jupyter+notebook,php,web+ontology+language,css&orgs=datacite)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![Kristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjgarza&show_icons=true&theme=radical)
 
