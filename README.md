@@ -1,6 +1,6 @@
 ### Hello there
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datacite&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjgarza&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Kristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjgarza&show_icons=true&theme=radical)
 
