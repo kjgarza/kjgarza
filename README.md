@@ -27,5 +27,8 @@ PhD work at Manchester on choice architecture in research-data interfaces: [fram
 
 #### Latest writing
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- [ParrotGPT: LLM tools for academic metadata schema mapping](https://kjgarza.substack.com/p/parrot-gpthtml) (Mar 2023)
+- [Revolutionizing metadata mapping with ChatGPT](https://kjgarza.substack.com/p/coversion_softwarehtml) (Jan 2023)
+- [Academic publishing web forms, meet your demise](https://kjgarza.substack.com/p/metadata-inputhtml) (Jan 2023)
+
+More on [Substack](https://kjgarza.substack.com).
